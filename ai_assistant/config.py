@@ -1,0 +1,5 @@
+OPENAI_API_KEY = "your-openai-api-key"
+WEATHER_API_KEY = "your-openweather-api-key"
+NEWS_API_KEY = "your-newsapi-key"
+EMAIL_ID = "your-outlook-email"
+EMAIL_PASSWORD = "your-app-password"
